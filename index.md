@@ -25,7 +25,7 @@
 ---
 
 ## 1. ダウンロード
-1. 公式ページを開く： https://code.visualstudio.com/download  
+1. [公式ページを開く：](https://code.visualstudio.com/download)
 2. Windows のところで選ぶ  
 - ふつうは **User Installer x64**（授業PCで管理者権限が無い場合に向く）
 - ARM64 の人は **User Installer Arm64**
